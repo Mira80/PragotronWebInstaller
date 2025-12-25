@@ -27,6 +27,7 @@ Pro nahrání firmwaru nepotřebujete žádný software ani programátorské zna
 * **Webová konfigurace:** Kompletní nastavení WiFi, NTP a parametrů hodin přes mobil/PC.
 * **Ochrana polarity:** "Atomic Pairs" logika zajišťuje, že se cívky hodin nikdy nepřepólují.
 * **Diagnostika:** OLED displej ukazuje stav synchronizace, letního času a frontu impulzů.
+* **Minutové i sekundové pulsy** Výstup minutových pulsů pro standardní hodiny i sekundových pro specifické modely.
 
 ## 🔌 Zapojení Hardware (Wemos D1 Mini)
 
