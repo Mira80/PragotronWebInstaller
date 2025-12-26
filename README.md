@@ -111,6 +111,8 @@ Pro správnou funkci detekce výpadku proudu (UPS/Power Monitor) a bezpečné ř
 ## 🔌 Schéma Zapojení - Rozšířené (S UPS)
 
 Toto je vylepšená varianta zapojení. Použijte ji, pokud **potřebujete** funkci zálohování času při výpadku proudu. V nastavení aplikace aktivujte funkci **"Povolit UPS (A0)"**.
+                                
+```text                                
                                 [ ČÁST 1: NAPÁJENÍ A UPS DETEKCE ]
 
    Vstup 5V (USB/Zdroj)
@@ -159,7 +161,7 @@ Toto je vylepšená varianta zapojení. Použijte ji, pokud **potřebujete** fun
 
       Zdroj 24V DC (+) -----------------------------> L298N svorka +12V/24V
       Zdroj 24V DC (-) -----------------------------> L298N svorka GND
-
+```
 
 
 
