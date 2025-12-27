@@ -22,11 +22,11 @@ Tato verze se zaměřuje na výrazné zlepšení uživatelského zážitku (UX) 
 * **FIX:** Opraveno chování odpočtu, který v určitých případech mohl počítat do záporných hodnot (nyní se zastaví na 0 a čeká).
 * **FIX:** Opraveno prázdné pole `Hostname` při vstupu do nastavení, které nutilo uživatele zadávat název znovu.
 
----
+
 **Kompatibilita:**
 * HW Platforma: Wemos D1 Mini (ESP8266)
 * Display: OLED 0.66" Shield (SSD1306)
-
+---
 
 ## [v7.4.0] - 2025-12-26
 ## Kompletní přepracování původního kódu z roku 2021
